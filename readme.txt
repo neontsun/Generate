@@ -1,0 +1,1 @@
+node generate.js password || login 16
